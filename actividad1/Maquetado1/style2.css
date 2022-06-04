@@ -1,0 +1,181 @@
+nav{
+    background-color: rgb(56, 112, 23);
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 8px solid black;
+    border-left: 8px solid black;
+    border-right: 8px solid black;
+    border-bottom: 8px solid black;
+}
+nav div{
+    background-color: white;
+    width: 150px;
+    height: 90px;
+    margin: 5px;
+    margin-left: 40px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 25px;
+}
+
+header{
+    width: 1000px;
+    height: 300px;
+    background-color: royalblue;
+    display: flex;
+    flex-wrap: wrap;
+    border-left: 8px solid black;
+    border-right: 8px solid black;
+    border-bottom: 8px solid black;
+}
+
+header .div1{
+    width: 800px;
+    height: 278px;
+    background-color: white;
+    border-left: 2.5px solid rgb(5, 5, 5);
+    border-right: 2.5px solid rgb(5, 5, 5);
+    border-top: 2.5px solid rgb(5, 5, 5);
+    border-bottom: 2.5px solid rgb(5, 5, 5);
+    text-align: center;
+    line-height: 290px;
+    font-size: 25px;
+    margin-left: 20px;
+    float: left;
+    margin: 8px;
+}
+
+header .div2{
+    width: 155px;
+    height: 80px;
+    background-color: white;
+    border-left: 2.5px solid rgb(5, 5, 5);
+    border-right: 2.5px solid rgb(5, 5, 5);
+    border-top: 2.5px solid rgb(5, 5, 5);
+    border-bottom: 2.5px solid rgb(5, 5, 5);
+    text-align: center;
+    line-height: 80px;
+    font-size: 25px;
+    margin-left: 20px;
+    
+    margin: 5px;
+}
+
+header .div3{
+    width: 155px;
+    height: 80px;
+    background-color: white;
+    border-left: 2.5px solid rgb(5, 5, 5);
+    border-right: 2.5px solid rgb(5, 5, 5);
+    border-top: 2.5px solid rgb(5, 5, 5);
+    border-bottom: 2.5px solid rgb(5, 5, 5);
+    text-align: center;
+    line-height: 80px;
+    font-size: 25px;
+    margin-left: 18px;
+    
+}
+
+header .div4{
+    width: 155px;
+    height: 80px;
+    background-color: white;
+    border-left: 2.5px solid rgb(5, 5, 5);
+    border-right: 2.5px solid rgb(5, 5, 5);
+    border-top: 2.5px solid rgb(5, 5, 5);
+    border-bottom: 2.5px solid rgb(5, 5, 5);
+    text-align: center;
+    line-height: 90px;
+    font-size: 25px;
+    margin-left: 30px;    
+}
+
+header #idiv2{
+    position: relative;
+    top: 5px;
+    left: 7px;
+}
+
+header #idiv3{
+    position: relative;
+    bottom: 195px;
+    left: 817px; 
+}
+
+header #idiv4{
+    position: relative;
+    bottom: 95px;
+    left: 625px; 
+}
+
+
+
+main{
+    height: 500px;
+    width: 1000px;
+    background-color:rgb(172, 169, 165);
+    border-left: 8px solid black;
+    border-right: 8px solid black;
+    border-bottom: 8px solid black;
+}
+
+main #id1{
+    height: 481px;
+    width: 200px;
+    background-color: white;
+    border-left: 2.5px solid rgb(255, 166, 0);
+    border-right: 2.5px solid rgb(255, 166, 0);
+    border-top: 2.5px solid rgb(255, 166, 0);
+    border-bottom: 2.5px solid rgb(255, 166, 0);
+    text-align: center;
+    line-height: 500px;
+    font-size: 25px;
+    margin-left: 10px;
+    float: left;
+    margin: 5px;
+}
+
+main article{
+    height: 481px;
+    width: 500px;
+    background-color: white; 
+    float: left;
+    border-left: 2.5px solid rgb(255, 166, 0);
+    border-right: 2.5px solid rgb(255, 166, 0);
+    border-top: 2.5px solid rgb(255, 166, 0);
+    border-bottom: 2.5px solid rgb(255, 166, 0);
+    text-align: center;
+    line-height: 500px;
+    font-size: 25px;
+    margin-left: 25px;
+    margin: 5px;
+}
+
+main #id2{
+    height: 481px ;
+    width: 254px;
+    background-color: white; 
+    float: left;
+    border-left: 2.5px solid rgb(255, 166, 0);
+    border-right: 2.5px solid rgb(255, 166, 0);
+    border-top: 2.5px solid rgb(255, 166, 0);
+    border-bottom: 2.5px solid rgb(255, 166, 0); 
+    text-align: center;
+    line-height: 500px; 
+    font-size: 25px;
+    margin-left: 25px;
+    margin: 5px;
+    
+    
+}
+
+footer{
+    background-color: rgb(255, 166, 0);
+    height: 50px;
+    width: 1000px;
+    border-left: 8px solid black;
+    border-right: 8px solid black;
+    border-bottom:8px solid black;
+}
