@@ -1,0 +1,127 @@
+
+/*Selector universal*/
+*{
+    text-align:justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif 
+}
+/*Selector id*/
+#Titulo1{
+    font-size: 42px;
+    text-align: center;
+}
+
+#imagen1 {
+    width: 45ex;
+    display: block;
+    margin: auto;
+}
+
+#datitos{
+    font-size: 21px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+}
+
+h2 {
+    font-size: 26px;
+}
+/*Selector de clase*/
+.L1{
+    font-size: 26px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+p{
+    font-size: 15px;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fotito{
+    width: 45ex;
+    display: block;
+    margin: auto;
+}
+
+.escuela{
+    display: block;
+    margin: auto;
+}
+
+.comidas{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+
+
+.comidass{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.cuadro{
+    width: 26ex;
+    display: block;
+    margin: auto;
+}
+.subtitulo{
+    font-size: 21px;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#login {
+    width: 56px;
+}
+
+#login2 {
+    width: 56px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+.a1 {
+    float: right;
+}
+
+.a1 {
+    display: block;
+    color: rgb(240, 229, 229);
+    text-align: center;
+    padding: 4px 16px;
+    text-decoration: none;
+}
+
+.a1:hover {
+    background-color: rgb(121, 207, 113);
+}
+
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#agregarte{
+    background-color: rgb(168, 238, 165);
+    width: 478px;
+    display: block;
+    margin: auto;
+}
+
+#boton{
+    width: 460px;
+}

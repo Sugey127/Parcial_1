@@ -1,0 +1,130 @@
+
+#jefe {
+    width: 1135px;
+    height: 1165px;
+    border: #1857b4 solid 5px;
+    background-image: url(../curriculum/imagenes/fondo5.jpg);
+    background-size: cover;
+    margin-left: 115px;
+}
+#estructura {
+    height: 80px;
+    border-bottom: #2957b4 solid 5px;
+    display: grid;
+    place-content: center;
+    font-size: 35px;
+}
+#imagen {
+    width: 260px;
+    height: 270px;
+    background-color: #fff;
+    border: 5px solid #2957b4;
+    margin-left: 25px;
+    margin: 25px;
+}
+img {
+    width: 230px;
+    height: 245px;
+    padding: 5px 10px;
+    margin-left: 5px;
+}
+#datitos {
+    width: 730px;
+    position: relative;
+    top: -390px;
+    left: 340px;
+    margin: none;
+    float: left;
+}
+#datitos1 {
+    width: 450px;;
+    height: 50px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0px;
+    display: grid;
+    place-content: center;
+    color: rgb(3, 3, 3);
+    font-size: 45px;
+    margin-left: 170px;
+}
+#datitos2 {
+    background-color: #d8d8d8;
+    width: 450px;
+    height: 140px;
+    margin: 0px;
+    padding: 30px 20px 0px;
+    text-align: center;
+    font-size: 19px;
+    margin-left: 150px;
+}
+#nav {
+    width: 285px;
+    height: 155px;
+    border: #1857b4 solid 5px;
+    margin-left: 35px;
+}
+#nav1 {
+    text-align: center;
+    font-size: 21px;
+}
+#dominio {
+    width: 730px;
+    position: relative;
+    top: -360px;
+    left: 340px;
+    margin: none;
+    float: left;
+}
+#dominio1 {
+    width: 450px;;
+    height: 50px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 15px;
+    display: grid;
+    place-content: center;
+    color: rgb(3, 3, 3);
+    font-size: 35px;
+    margin-left: 170px;
+}
+#dominio2 {
+    background-color: #d8d8d8;
+    width: 450px;
+    height: 90px;
+    margin: 0px;
+    padding: 30px 20px 0px;
+    text-align: center;
+    font-size: 19px;
+    margin-left: 150px;
+}
+#adicional {
+    width: 730px;
+    position: relative;
+    top: -360px;
+    left: 340px;
+    margin: none;
+    float: left;
+}
+#adicional1 {
+    width: 450px;;
+    height: 50px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 15px;
+    display: grid;
+    place-content: center;
+    color: rgb(3, 3, 3);
+    font-size: 35px;
+    margin-left: 170px;
+}
+#adicional2 {
+    background-color: #d8d8d8;
+    width: 450px;
+    height: 170px;
+    margin: 0px;
+    padding: 30px 20px 0px;
+    text-align: center;
+    font-size: 19px;
+    margin-left: 150px;
+}

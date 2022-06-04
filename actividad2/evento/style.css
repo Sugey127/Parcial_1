@@ -1,0 +1,103 @@
+#jefe {
+    height: 1000px;
+}
+#Container {
+    width: 60%;
+    height: 1000px;
+    background-color: hsl(201, 45%, 53%);
+}
+
+header {
+    width: 100%;
+    height: 87px;
+    background-color: #1d9e57;
+    display: grid;
+    place-content: center;
+    color: white;
+    font-size: 80px;
+    font-family: 'Fredericka the Great', cursive;
+}
+
+#imageContainer {
+    width: 100%;
+    height: 64.5%;
+    background-color: #9292e9;
+}
+
+img {
+    width: 100%;
+    height: 60%;
+}
+
+main {
+    display: grid;
+    place-content: center;
+}
+
+iframe {
+    width: 788px;
+    height: 380px;
+}
+
+
+#Left-Container {
+    width: 40%;
+    height: 1000px;
+    background-image: url(imagen/fondoLogin.jpg);
+    background-size: cover;
+    position: relative;
+    top: -1000px;
+    left: 60%;
+    display: grid;
+    place-content: center;
+}
+
+main {
+    width: 100%;
+    height: 39%;
+    background-color: rgb(226, 226, 226);
+}
+
+form {
+    color: rgb(15, 1, 1);
+}
+
+#header-Register {
+    display: grid;
+    place-content: center;
+    position: relative;
+    top: -40px;
+    font-size: 45px;
+}
+
+#form-Required {
+    width: 400px;
+    height: 500px;
+    border-radius: 20px;
+    background-color: hsla(318, 92%, 51%, 0.102);
+    display: grid;
+    place-content: center;
+}
+
+#form-Required:hover {filter: sepia(60%);}
+
+.C1 {
+    width: 300px;
+    height: 20px;
+    border: none;
+}
+
+.C2 {
+    position: relative;
+    left: 10px;
+}
+
+input {
+    margin: 10px;
+    border: none;
+}
+
+#id-input1 {
+    display: grid;
+    place-content: center;
+}
