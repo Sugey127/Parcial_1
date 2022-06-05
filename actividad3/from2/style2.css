@@ -1,0 +1,42 @@
+body{
+   background-image: url(imagenes/fondo13.jpg);
+   background-repeat: no-repeat;
+    background-size: cover;
+}
+form {
+    width: 900px;
+    background-color: rgb(251, 251, 251);
+    border: solid #25ebfa 10px;
+    border-radius: 15px;
+    margin-left: 245px;
+}
+
+#container {
+
+    width: 100%;
+    margin: 30px;
+    position: relative;
+    top: 20px;
+}
+
+.box {
+    width: 30%;
+    font-size: 21px;
+}
+
+.input-class {
+    position: relative;
+    left: 32%;
+    top: -35px;
+}
+.input-class2 {
+    position: relative;
+    left: 72%;
+    top: -35px;
+    font-size: 21px;
+    background-color: #70e7eb;
+}
+
+p {
+    text-align: right;
+}
